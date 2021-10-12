@@ -1,0 +1,29 @@
+.ButtonEditAndCancel {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  gap: 10px;
+  margin-top: 25px;
+  margin-left: 20px;
+}
+
+.buttonCancelForPage {
+  background: #ffffff;
+  border: 1px solid #c9cad1;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 12px;
+  width: 210px;
+  height: 38px;
+  font-size: 12px;
+}
+
+.buttonPostPage {
+  background: #0087ff;
+  color: white;
+}
+/*# sourceMappingURL=ButtonEdit.css.map */

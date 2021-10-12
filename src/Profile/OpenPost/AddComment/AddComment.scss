@@ -1,0 +1,31 @@
+.inputAdd{
+    border: 1px solid white;
+    margin-left: 10px;
+    width:  141px;
+}
+
+*, .inputAdd:focus {
+
+    outline: none !important;
+
+}
+
+::placeholder{
+    color:#808080;
+}
+
+.addCommentContainer{
+    display: flex;
+    flex-direction: row;
+    gap:180px;
+}
+
+.buttonPost{
+    color:#0087FF;
+    background-color: white;
+    border: 1px solid white;
+    outline: none;
+}
+
+
+

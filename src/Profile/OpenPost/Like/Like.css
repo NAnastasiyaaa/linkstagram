@@ -1,0 +1,15 @@
+.likeSign {
+  width: 20px;
+  height: 20px;
+  margin-top: 140px;
+  margin-left: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  gap: 10px;
+}
+/*# sourceMappingURL=Like.css.map */

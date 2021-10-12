@@ -1,0 +1,66 @@
+.user {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 20px;
+}
+
+.photographer {
+    margin-top: -20px;
+    font-weight: normal;
+}
+
+.paragraphColor {
+    color: gray;
+    font-weight: normal;
+    margin-top: -10px;
+}
+
+.textFollow{
+    color:gray;
+}
+
+.containerFollower {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding-right: 250px;
+    text-align: end;
+    margin-top: -110px;
+    line-height: 5px;
+    font-size: 12px;
+}
+
+.containerButton {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: flex-end;
+    padding-right: 250px;
+    margin-top: 20px;
+}
+
+.containerText {
+    margin-top: 30px;
+    padding-left: 300px;
+}
+
+.EditBtn {
+    width: 140px;
+    height: 30px;
+    border-radius: 12px;
+    background: #ffffff;
+    border: 1px solid #c9cad1;
+    font-weight: bold;
+}
+
+.NewBtn {
+    width: 140px;
+    height: 30px;
+    background: #0087ff;
+    border-radius: 12px;
+    color: white;
+    border:0;
+}
+
+

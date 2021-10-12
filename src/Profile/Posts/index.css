@@ -1,0 +1,30 @@
+.modal > .closePhoto {
+  margin-top: 600px;
+  cursor: -webkit-grabbing;
+  cursor: grabbing;
+  width: 50px;
+  font-size: 40px;
+  border-radius: 18px #808080;
+}
+
+a {
+  color: #808080;
+  text-decoration: none;
+  margin-left: 850px;
+  margin-top: 600px;
+}
+
+.closePhoto {
+  margin-top: 600px;
+}
+
+.popup-overlay {
+  background: #fafbfc;
+  background: rgba(0, 0, 0, 0.72);
+}
+
+.openedPost {
+  width: 950px;
+  height: 580px;
+}
+/*# sourceMappingURL=index.css.map */

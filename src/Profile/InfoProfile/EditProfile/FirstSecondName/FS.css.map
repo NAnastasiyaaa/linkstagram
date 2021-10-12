@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,gBAAgB,CAAC;EACb,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,GAAG,EAAC,IAAI;CACX;;AAED,AAAA,qBAAqB,CAAA;EACjB,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,IAAI;CACf",
+    "sources": [
+        "FS.scss"
+    ],
+    "names": [],
+    "file": "FS.css"
+}

@@ -1,0 +1,65 @@
+.contentBox {
+  padding: 30px;
+}
+
+#HeaderProfileEdit{
+    margin-left: 20px;
+    font-size: 32px;
+}
+
+
+/* .btn {
+  background: #010101;
+  opacity: 0.6;
+  font-size: 12px;
+  color: white;
+  font-family: Poppins;
+  font-style: normal;
+  position: absolute;
+  width: 148px;
+  height: 20px;
+  margin-top: 130px;
+  /* transform: translate(-10%, -50%); */
+ 
+
+/* 
+.firstSecondName {
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+
+.inputFirstSecondName{
+    width: 250px;
+    height: 40px;
+} */
+
+.imageWithInput{
+    display: flex;
+    flex-direction: row;
+    gap:30px;
+    margin-left: 20px;
+}
+
+.jobInput{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.inputJob{
+    width: 430px;
+    height: 40px;
+}
+
+.ProfileLogOut{
+    display: flex;
+    flex-direction: row;
+}
+
+.logOutColor{
+    margin-top: 45px;
+    margin-left: 85px;
+    color: #FB766E;
+}

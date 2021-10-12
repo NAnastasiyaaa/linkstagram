@@ -1,0 +1,44 @@
+.inputAdd {
+  border: 1px solid white;
+  margin-left: 10px;
+  width: 141px;
+}
+
+*, .inputAdd:focus {
+  outline: none !important;
+}
+
+::-webkit-input-placeholder {
+  color: #808080;
+}
+
+:-ms-input-placeholder {
+  color: #808080;
+}
+
+::-ms-input-placeholder {
+  color: #808080;
+}
+
+::placeholder {
+  color: #808080;
+}
+
+.addCommentContainer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  gap: 180px;
+}
+
+.buttonPost {
+  color: #0087FF;
+  background-color: white;
+  border: 1px solid white;
+  outline: none;
+}
+/*# sourceMappingURL=AddComment.css.map */

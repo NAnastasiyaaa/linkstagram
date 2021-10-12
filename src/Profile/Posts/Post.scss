@@ -1,0 +1,57 @@
+.imagePosts {
+    display: flex;
+    flex-direction: column;
+    margin-top: 60px;
+    margin-left: 285px;
+    width: 624px;
+    height: 64px;
+    gap: 40px;
+}
+
+.postColor {
+    color: #808080;
+    margin-left: 40px;
+    margin-top: -20px;
+}
+
+.LikeAndComments {
+    display: flex;
+    flex-direction: row;
+    margin-top: -60px;
+    margin-left: 40px;
+    gap: 30px;
+}
+
+.like,
+.post {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.buttonShare {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    font-weight: bold;
+    background-color: white;
+    width: 108px;
+    height: 20px;
+    border: 0;
+    margin-top: 25px;
+    margin-left: 330px;
+}
+
+.line {
+    width: 14px;
+    height: 14px;
+}
+
+.copyButton{
+    position:absolute;
+    margin-top: 250px;
+    font-weight: 500;
+    font-size: 20px;
+    color: white;
+    margin-left: 250px;
+}

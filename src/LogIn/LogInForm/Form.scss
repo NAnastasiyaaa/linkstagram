@@ -1,0 +1,52 @@
+.loginForm {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-left: 860px;
+    margin-top:-580px;
+}
+
+input {
+    background: #ffffff;
+    border: 1px solid #c9cad1;
+    box-sizing: border-box;
+    border-radius: 12px;
+    width: 360px;
+    height: 48px;
+    padding-left: 10px;
+}
+
+::placeholder {
+    color: rgb(201, 198, 198);
+  }
+
+label,
+.linkName{
+    color: #808080;
+    font-size: 12px;
+}
+
+p{
+    margin-left: 100px;
+}
+
+.linkSignUp{
+    color:#0087FF;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.ButtonLogIn {
+    border: 0;
+    width: 360px;
+    height: 48px;
+    background-color: #0087ff;
+    border-radius: 12px;
+    color:white;
+    
+}
+
+.logInHeader{
+    font-size: 42px;
+}

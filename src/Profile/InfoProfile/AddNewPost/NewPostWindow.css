@@ -1,0 +1,29 @@
+.contentBox {
+  background-color: #ffffff; 
+  width: 476px;
+  height: 550px;
+  border-radius: 32px;
+  margin-left: 10px;
+}
+
+.choosePhoto {
+  width: 430px;
+  height: 245px;
+  margin-left: 20px;
+  margin-top: 50px;
+}
+
+
+.modal > .closeEdit {
+  margin-top: 500px;
+  cursor: -webkit-grabbing;
+  cursor: grabbing;
+  width: 50px;
+  font-size: 40px;
+  border-radius: 18px #808080;
+  margin-left: 500px;
+}
+
+
+
+

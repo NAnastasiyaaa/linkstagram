@@ -1,0 +1,65 @@
+.navbar {
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.05);
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    gap: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+    font-size: 14px;
+}
+
+h1 {
+    padding-right: 980px;
+}
+
+.buttonHome {
+    width: 85px;
+    height: 40px;
+    background: #010101;
+    color: white;
+    border-radius: 12px;
+    margin-top: 20px;
+}
+
+.userImg {
+    margin-top: 5px;
+}
+
+.buttonLanguage {
+    background: #ffffff;
+    border: 0.5px solid #c9cad1;
+    width: 40px;
+    height: 40px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    width: 50px;
+    height: 132px;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.05);
+    color:black;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 12px;
+    display: block;
+    font-weight: bold;
+}
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.langStyle{
+    margin-left: 15px;
+}
+
+
+

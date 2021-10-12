@@ -1,0 +1,81 @@
+.ava {
+  width: 88px;
+  height: 94px;
+  margin-top: 30px;
+}
+
+.PostCard {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  padding-right: 250px;
+}
+
+h3 {
+  color: black;
+}
+
+.folowers {
+  margin-top: 35px;
+  margin-left: 20px;
+  text-align: center;
+  font-family: Poppins;
+  margin-right: 20px;
+  font-size: 16px;
+  color: gray;
+  line-height: 10px;
+}
+
+.PostDescription {
+  color: gray;
+  font-family: Poppins;
+  font-size: 15px;
+  margin-top: -20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  padding-right: 250px;
+  text-align: center;
+}
+
+.buttonEditAndNew {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  gap: 20px;
+  padding-right: 290px;
+}
+
+.buttonEdit, .buttonNew {
+  border-radius: 12px;
+  background-color: snow;
+  color: black;
+  width: 103px;
+  height: 40px;
+  border: 0;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.buttonNew {
+  background-color: #0087FF;
+  color: white;
+}
+/*# sourceMappingURL=Info.css.map */

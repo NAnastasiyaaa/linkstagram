@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,kBAAkB,CAAA;EACd,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,GAAG;EACnB,gBAAgB,EAAE,OAAO;EACzB,aAAa,EAAE,IAAI;EACnB,KAAK,EAAE,KAAK;CACf;;AAGD,AAAA,iBAAiB,CAAA;EACb,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,GAAG,EAAC,IAAI;CACX",
+    "sources": [
+        "OpenPost.scss"
+    ],
+    "names": [],
+    "file": "OpenPost.css"
+}

@@ -1,0 +1,22 @@
+.ButtonEditAndCancel {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+.buttonCancelForPage {
+    background: #ffffff;
+    border: 1px solid #c9cad1;
+    box-sizing: border-box;
+    border-radius: 12px;
+    width: 210px;
+    height: 38px;
+    font-size: 12px;
+}
+
+.buttonPostPage {
+    background: #0087ff;
+    color: white;
+}
